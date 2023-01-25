@@ -1,2 +1,2 @@
 ## Link
-For more information about this project [Click](https://github.com/drmskrblt)
+For more information about this project [here](https://github.com/drmskrblt)
