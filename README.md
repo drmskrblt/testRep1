@@ -15,4 +15,6 @@ You can find my image [here](programmer-icon.png)
 ## Checkboxes
 
 - [X] Git and GitHub
-- [ ] CSS
+- [X] CSS
+- [X] HTML
+- [ ] JavaScript
