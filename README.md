@@ -6,3 +6,6 @@ For more information about this project [here](https://github.com/drmskrblt).
 ![github-git](programmer-icon.png)
 
 You can find my image [here](programmer-icon.png)
+
+## Emojis
+:smile:
