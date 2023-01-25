@@ -8,6 +8,6 @@ For more information about this project [here](https://github.com/drmskrblt).
 You can find my image [here](programmer-icon.png)
 
 ## Emojis
-:smile:
-:book:
+:smile:  
+:book:  
 :trophy:
