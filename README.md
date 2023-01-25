@@ -12,4 +12,7 @@ You can find my image [here](programmer-icon.png)
 :book:  
 :trophy:  
 
+## Checkboxes
 
+-[X] Git and GitHub
+-[ ] CSS
